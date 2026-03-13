@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "GameFi-Datenanalyse"
+version = "0.1.0"
+description = "On-Chain GameFi-Datenanalyse & Machine Learning für Axie Infinity"
+authors = ["TinsleyHaf"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
